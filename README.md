@@ -1,20 +1,49 @@
 # 🎭 Expression Challenge App
 
-A real-time facial expression game using Computer Vision and AI.
+A real-time facial expression game powered by AI 🤖
+
+---
+
+## 📸 Demo
+
+### 🏠 Dashboard
+![Dashboard](assets/demo1.png)
+
+### 🎮 Gameplay
+![Gameplay](assets/demo2.png)
+
+### 🏆 Result
+![Result](assets/demo3.png)
+
+---
+
+## 🧠 System Architecture
+![Architecture](assets/architecture.png)
+
+---
+
+## 🤖 Model Pipeline
+![Model](assets/model.png)
+
+---
 
 ## 🚀 Features
-- Detects facial emotions using HuggingFace model
-- Game-based scoring system
-- Retry/retake feature
-- Webcam-based interaction
+- 🎯 Emotion detection using HuggingFace Vision Transformer
+- 🎮 Game-based scoring system
+- 🔁 Retry / retake feature
+- 📷 Real-time webcam interaction
+
+---
 
 ## 🧠 Tech Stack
 - Python (Flask)
 - OpenCV
 - HuggingFace Transformers
-- JavaScript (Frontend)
+- JavaScript (Vanilla)
 
-## ▶️ How to Run
+---
+
+## ▶️ Run Locally
 
 ### Backend
 ```bash
